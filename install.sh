@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 # This script will install dmr_utils from a downloaded zip file or from a git clone.
 # If all you are interested in using dmr_utils because another program requires it (HBlink DMRlink etc)
 # Then you can simply:
