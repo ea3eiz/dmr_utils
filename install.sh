@@ -10,7 +10,7 @@
 # apt-get install python-dev -y
 # apt-get install python-pip -y
 
-cd /home/ubuntu/dmr_utils/dmr_utils
+#cd /home/ubuntu/dmr_utils/dmr_utils
 apt-get install python-pip -y
 pip install dmr_utils
 
